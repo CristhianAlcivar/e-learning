@@ -11,6 +11,7 @@
 
     <modules>
         <module>courses-service</module>
+        <module>users-service</module>
     </modules>
 
     <properties>
@@ -20,4 +21,3 @@
     </properties>
 
 </project>
-
