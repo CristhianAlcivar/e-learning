@@ -12,6 +12,7 @@
     <modules>
         <module>courses-service</module>
         <module>users-service</module>
+		<module>enrollment-service</module>
     </modules>
 
     <properties>
