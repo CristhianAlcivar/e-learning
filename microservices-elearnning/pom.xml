@@ -13,6 +13,7 @@
         <module>courses-service</module>
         <module>users-service</module>
 		<module>enrollment-service</module>
+		<module>grades-service</module>
     </modules>
 
     <properties>
